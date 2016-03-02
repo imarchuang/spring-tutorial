@@ -11,6 +11,7 @@
 	<modules>
 		<module>spring-security</module>
 		<module>spring-security-annotation</module>
+		<module>spring-remoting-rmi</module>
 	</modules>
 
 	<dependencies>
